@@ -3,9 +3,7 @@
 # Import module math
 import math
 
-if 1 == 1 is true:
-   print("this is the code right here is the code")
-   
+# took out my code it kinda sucked   
 def print_func( par ):
    print ("Hello : ", par)
    return
