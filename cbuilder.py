@@ -2,8 +2,7 @@
 
 # Import module math
 import math
-
-# took out my code it kinda sucked   
+  
 def print_func( par ):
    print ("Hello : ", par)
    return
